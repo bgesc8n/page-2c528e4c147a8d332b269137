@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "83efaf450da821dede221510",
+  "owner": "bgesc8n",
+  "repo": "page-2c528e4c147a8d332b269137",
+  "title": "CK云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2c528e4c147a8d332b269137",
+      "a": "CK云",
+      "b": "机场官网线路发布页",
+      "entity": "CK云",
+      "brand": "CK云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1962efd98a6b81dfdca5ed1598a905bb9b53fb7620519e7d34b0e0d8b60eb4eb",
+      "content": {
+        "primary_entity": "CK云",
+        "keyword1": "CK云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面端和移动端分别查看适配版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "浏览套餐后按设备数量与流量需求做出选择。",
+          "AI_CLOSING_TITLE": "CK云套餐速览",
+          "AI_DESCRIPTION": "，CK云面向需要稳定海外线路的用户提供分级套餐，基础版每月15元含100GB流量与3台设备，旗舰版每月35元提供300GB流量和5台设备，团队版每月85元覆盖1000GB流量与20台设备。选择订阅时可围绕设备数量、流量用量和计费周期做对比，按年付费在月付基础上更省。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合个人轻度使用。",
+          "AI_FAQ_ANSWER_2": "流量按套餐规格提供，超出后可在账户内查看升级选项，无需重新购买线路。",
+          "AI_FAQ_ANSWER_3": "基础版3台、旗舰版5台、团队版20台，按年付与月付在设备数量上保持一致。",
+          "AI_FAQ_ANSWER_4": "桌面端和移动端分别有对应客户端，可在购买后按设备系统选择适配版本。",
+          "AI_FAQ_ANSWER_5": "旗舰版每月35元，含300GB流量、5台设备和IPLC专线游戏加速优化，适合多设备用户。",
+          "AI_FAQ_INTRO": "订阅流量、设备限制与计费周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含多少流量和设备？",
+          "AI_FAQ_QUESTION_2": "流量用完后如何处理？",
+          "AI_FAQ_QUESTION_3": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "如何选择适合设备的客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐规格入手，比较流量、设备数和计费方式。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "按人数与设备数量选档，基础版到团队版依次覆盖3至20台设备。",
+          "AI_FEATURE_TEXT_2": "流量按月计算，100GB适合个人，1000GB适合团队或高用量场景。",
+          "AI_FEATURE_TEXT_3": "年付价格低于月付累计，旗舰版年付350元，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "设备匹配",
+          "AI_FEATURE_TITLE_2": "流量评估",
+          "AI_FEATURE_TITLE_3": "周期选择",
+          "AI_GUIDE_INTRO": "按需求选择套餐，再为设备配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "CK云提供基础版、旗舰版与团队版三档海外加速订阅，分别覆盖100GB、300GB和1000GB月流量，设备数量从3台到20台递增，用户可按实际用量和在线设备数选择。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按年付费更省",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版100GB/3台，旗舰版300GB/5台，团队版1000GB/20台。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，桌面端和移动端分别查看对应版本。",
+          "AI_STEP_TEXT_3": "购买后按客户端文档导入订阅，在设备上完成连接配置。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对设备",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "CK云海外加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "seladu.cn",
+    "host": "seladu.cn"
+  },
+  "file_hashes": {
+    "index.html": "65e2ffbc831ac0540acad6a3a1fb866810300da589d90fdfb08e10fab4d8aa64",
+    "sitemap.xml": "d43b08ef07c29f48161837d90dba7896481d3c0472baa6e99537067449564edb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "13a87ca9b2487a58c3495bc043a708075a7bbad386b37edbf6d54653dfe4a975",
+    "robots.txt": "5bfa3a62aa6fa7ab9d41e3595e9348cee20d14dd8821620a5394cdd743b1dd1f",
+    "0c5172b10f80642e3bc3d5668924edcb.txt": "d6f8671dc24a3ea662bb15630505a4a0ce4cb7f2af3c53c751a11c7c63988cc2"
+  },
+  "revision": "cb88e8255eca1a73de248b87387adc5f70760bbac2d40099bbc4f9becc250cee"
+}
